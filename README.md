@@ -13,6 +13,10 @@
   &nbsp;·&nbsp;
   <a href="https://github.com/abraxas/phpmyadmin-vqb-xss">phpmyadmin-vqb-xss</a>
 </p>
+<p align="center">
+  Write-up: <a href="https://abraxaslabs.tech/research/phpmyadmin-vqb-xss"><strong>https://abraxaslabs.tech/research/phpmyadmin-vqb-xss</strong></a>
+</p>
+
 
 # phpmyadmin-vqb-xss
 
